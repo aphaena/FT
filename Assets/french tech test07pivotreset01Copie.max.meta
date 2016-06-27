@@ -1,0 +1,769 @@
+fileFormatVersion: 2
+guid: a0a3ba24c51082647974f033df050940
+timeCreated: 1466078591
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Baume
+    100002: box unders
+    100004: box unders001
+    100006: Cable_Avant
+    100008: Cable_Avant002
+    100010: Cable_Avant003
+    100012: Coque
+    100014: Coque droite
+    100016: Coque droite001
+    100018: float _008
+    100020: float _017
+    100022: float _018
+    100024: float _019
+    100026: float _020
+    100028: float _021
+    100030: float skin
+    100032: float skin001
+    100034: FloteurDroitFlanEXt
+    100036: FloteurGaucheFlanExt
+    100038: //RootNode
+    100040: hautcoqueav
+    100042: hautcoqueav001
+    100044: letrucDroit
+    100046: letrucGauche
+    100048: Mat
+    100050: mh doghous
+    100052: mh doghous001
+    100054: Obj_000001
+    100056: Obj_000002
+    100058: Obj_000003
+    100060: Obj_000004
+    100062: Obj_000011
+    100064: Obj_000013
+    100066: Obj_000014
+    100068: Obj_000015
+    100070: Obj_000016
+    100072: Obj_000019
+    100074: Obj_000020
+    100076: Obj_000021
+    100078: Obj_000022
+    100080: Obj_000023
+    100082: Obj_000024
+    100084: Obj_000025
+    100086: Obj_000026
+    100088: Obj_000027
+    100090: Obj_000028
+    100092: Obj_000029
+    100094: Obj_000030
+    100096: Obj_000031
+    100098: Obj_000032
+    100100: Obj_000033
+    100102: Obj_000034
+    100104: Obj_000035
+    100106: Obj_000036
+    100108: Obj_000037
+    100110: Obj_000038
+    100112: Obj_000039
+    100114: Obj_000040
+    100116: Obj_000041
+    100118: Obj_000042
+    100120: Obj_000043
+    100122: Obj_000044
+    100124: Obj_000045
+    100126: Obj_000046
+    100128: Obj_000047
+    100130: Obj_000048
+    100132: Obj_000049
+    100134: Obj_000050
+    100136: Obj_000051
+    100138: Obj_000052
+    100140: Obj_000053
+    100142: Obj_000054
+    100144: Obj_000055
+    100146: Obj_000056
+    100148: Obj_000057
+    100150: Obj_000058
+    100152: Obj_000059
+    100154: Obj_060
+    100156: Obj_061
+    100158: Obj_062
+    100160: Obj_063
+    100162: Obj_064
+    100164: Obj_065
+    100166: Obj_066
+    100168: Obj_067
+    100170: Obj_068
+    100172: Obj_069
+    100174: Obj_070
+    100176: Obj_071
+    100178: Obj_072
+    100180: Obj_073
+    100182: Obj_074
+    100184: Obj_075
+    100186: Obj_076
+    100188: Obj_077
+    100190: Obj_078
+    100192: Obj_079
+    100194: Obj_080
+    100196: Obj_081
+    100198: Obj_082
+    100200: Obj_083
+    100202: Obj_084
+    100204: Obj_085
+    100206: Obj_086
+    100208: Obj_087
+    100210: Obj_088
+    100212: Obj_089
+    100214: Obj_090
+    100216: Obj_091
+    100218: Obj_092
+    100220: Obj_093
+    100222: Obj_094
+    100224: Obj_095
+    100226: Obj_096
+    100228: Obj_097
+    100230: Obj_098
+    100232: Obj_099
+    100234: Obj_100
+    100236: Obj_101
+    100238: Obj_102
+    100240: Obj_103
+    100242: Obj_104
+    100244: Obj_105
+    100246: Obj_106
+    100248: Obj_107
+    100250: Obj_108
+    100252: Obj_109
+    100254: Plan001
+    100256: Plan002
+    100258: SafranDroit
+    100260: SafranGauche
+    100262: TRIM S_012
+    100264: TRIM S_013
+    100266: TRIM SF
+    100268: TRIM SF001
+    100270: Tube001
+    100272: Tube002
+    100274: Voile
+    100276: Voile003
+    100278: Voile004
+    100280: Voile005
+    100282: Voile2
+    100284: VoileDroite
+    400000: Baume
+    400002: box unders
+    400004: box unders001
+    400006: Cable_Avant
+    400008: Cable_Avant002
+    400010: Cable_Avant003
+    400012: Coque
+    400014: Coque droite
+    400016: Coque droite001
+    400018: float _008
+    400020: float _017
+    400022: float _018
+    400024: float _019
+    400026: float _020
+    400028: float _021
+    400030: float skin
+    400032: float skin001
+    400034: FloteurDroitFlanEXt
+    400036: FloteurGaucheFlanExt
+    400038: //RootNode
+    400040: hautcoqueav
+    400042: hautcoqueav001
+    400044: letrucDroit
+    400046: letrucGauche
+    400048: Mat
+    400050: mh doghous
+    400052: mh doghous001
+    400054: Obj_000001
+    400056: Obj_000002
+    400058: Obj_000003
+    400060: Obj_000004
+    400062: Obj_000011
+    400064: Obj_000013
+    400066: Obj_000014
+    400068: Obj_000015
+    400070: Obj_000016
+    400072: Obj_000019
+    400074: Obj_000020
+    400076: Obj_000021
+    400078: Obj_000022
+    400080: Obj_000023
+    400082: Obj_000024
+    400084: Obj_000025
+    400086: Obj_000026
+    400088: Obj_000027
+    400090: Obj_000028
+    400092: Obj_000029
+    400094: Obj_000030
+    400096: Obj_000031
+    400098: Obj_000032
+    400100: Obj_000033
+    400102: Obj_000034
+    400104: Obj_000035
+    400106: Obj_000036
+    400108: Obj_000037
+    400110: Obj_000038
+    400112: Obj_000039
+    400114: Obj_000040
+    400116: Obj_000041
+    400118: Obj_000042
+    400120: Obj_000043
+    400122: Obj_000044
+    400124: Obj_000045
+    400126: Obj_000046
+    400128: Obj_000047
+    400130: Obj_000048
+    400132: Obj_000049
+    400134: Obj_000050
+    400136: Obj_000051
+    400138: Obj_000052
+    400140: Obj_000053
+    400142: Obj_000054
+    400144: Obj_000055
+    400146: Obj_000056
+    400148: Obj_000057
+    400150: Obj_000058
+    400152: Obj_000059
+    400154: Obj_060
+    400156: Obj_061
+    400158: Obj_062
+    400160: Obj_063
+    400162: Obj_064
+    400164: Obj_065
+    400166: Obj_066
+    400168: Obj_067
+    400170: Obj_068
+    400172: Obj_069
+    400174: Obj_070
+    400176: Obj_071
+    400178: Obj_072
+    400180: Obj_073
+    400182: Obj_074
+    400184: Obj_075
+    400186: Obj_076
+    400188: Obj_077
+    400190: Obj_078
+    400192: Obj_079
+    400194: Obj_080
+    400196: Obj_081
+    400198: Obj_082
+    400200: Obj_083
+    400202: Obj_084
+    400204: Obj_085
+    400206: Obj_086
+    400208: Obj_087
+    400210: Obj_088
+    400212: Obj_089
+    400214: Obj_090
+    400216: Obj_091
+    400218: Obj_092
+    400220: Obj_093
+    400222: Obj_094
+    400224: Obj_095
+    400226: Obj_096
+    400228: Obj_097
+    400230: Obj_098
+    400232: Obj_099
+    400234: Obj_100
+    400236: Obj_101
+    400238: Obj_102
+    400240: Obj_103
+    400242: Obj_104
+    400244: Obj_105
+    400246: Obj_106
+    400248: Obj_107
+    400250: Obj_108
+    400252: Obj_109
+    400254: Plan001
+    400256: Plan002
+    400258: SafranDroit
+    400260: SafranGauche
+    400262: TRIM S_012
+    400264: TRIM S_013
+    400266: TRIM SF
+    400268: TRIM SF001
+    400270: Tube001
+    400272: Tube002
+    400274: Voile
+    400276: Voile003
+    400278: Voile004
+    400280: Voile005
+    400282: Voile2
+    400284: VoileDroite
+    2300000: Baume
+    2300002: box unders
+    2300004: box unders001
+    2300006: Cable_Avant
+    2300008: Cable_Avant002
+    2300010: Cable_Avant003
+    2300012: float _008
+    2300014: float _017
+    2300016: float _018
+    2300018: float _019
+    2300020: float _020
+    2300022: float _021
+    2300024: float skin
+    2300026: float skin001
+    2300028: hautcoqueav
+    2300030: hautcoqueav001
+    2300032: letrucDroit
+    2300034: letrucGauche
+    2300036: Mat
+    2300038: mh doghous
+    2300040: mh doghous001
+    2300042: Obj_000001
+    2300044: Obj_000002
+    2300046: Obj_000003
+    2300048: Obj_000004
+    2300050: Obj_000011
+    2300052: Obj_000013
+    2300054: Obj_000014
+    2300056: Obj_000015
+    2300058: Obj_000016
+    2300060: Obj_000019
+    2300062: Obj_000020
+    2300064: Obj_000021
+    2300066: Obj_000022
+    2300068: Obj_000023
+    2300070: Obj_000024
+    2300072: Obj_000025
+    2300074: Obj_000026
+    2300076: Obj_000027
+    2300078: Obj_000028
+    2300080: Obj_000029
+    2300082: Obj_000030
+    2300084: Obj_000031
+    2300086: Obj_000032
+    2300088: Obj_000033
+    2300090: Obj_000034
+    2300092: Obj_000035
+    2300094: Obj_000036
+    2300096: Obj_000037
+    2300098: Obj_000038
+    2300100: Obj_000039
+    2300102: Obj_000040
+    2300104: Obj_000041
+    2300106: Obj_000042
+    2300108: Obj_000043
+    2300110: Obj_000044
+    2300112: Obj_000045
+    2300114: Obj_000046
+    2300116: Obj_000047
+    2300118: Obj_000048
+    2300120: Obj_000049
+    2300122: Obj_000050
+    2300124: Obj_000051
+    2300126: Obj_000052
+    2300128: Obj_000053
+    2300130: Obj_000054
+    2300132: Obj_000055
+    2300134: Obj_000056
+    2300136: Obj_000057
+    2300138: Obj_000058
+    2300140: Obj_000059
+    2300142: Obj_060
+    2300144: Obj_061
+    2300146: Obj_062
+    2300148: Obj_063
+    2300150: Obj_064
+    2300152: Obj_065
+    2300154: Obj_066
+    2300156: Obj_067
+    2300158: Obj_068
+    2300160: Obj_069
+    2300162: Obj_070
+    2300164: Obj_071
+    2300166: Obj_072
+    2300168: Obj_073
+    2300170: Obj_074
+    2300172: Obj_075
+    2300174: Obj_076
+    2300176: Obj_077
+    2300178: Obj_078
+    2300180: Obj_079
+    2300182: Obj_080
+    2300184: Obj_081
+    2300186: Obj_082
+    2300188: Obj_083
+    2300190: Obj_084
+    2300192: Obj_085
+    2300194: Obj_086
+    2300196: Obj_087
+    2300198: Obj_088
+    2300200: Obj_089
+    2300202: Obj_090
+    2300204: Obj_091
+    2300206: Obj_092
+    2300208: Obj_093
+    2300210: Obj_094
+    2300212: Obj_095
+    2300214: Obj_096
+    2300216: Obj_097
+    2300218: Obj_098
+    2300220: Obj_099
+    2300222: Obj_100
+    2300224: Obj_101
+    2300226: Obj_102
+    2300228: Obj_103
+    2300230: Obj_104
+    2300232: Obj_105
+    2300234: Obj_106
+    2300236: Obj_107
+    2300238: Obj_108
+    2300240: Obj_109
+    2300242: Plan001
+    2300244: Plan002
+    2300246: SafranDroit
+    2300248: SafranGauche
+    2300250: TRIM S_012
+    2300252: TRIM S_013
+    2300254: TRIM SF
+    2300256: TRIM SF001
+    2300258: Tube001
+    2300260: Tube002
+    2300262: Voile
+    2300264: Voile003
+    2300266: Voile004
+    2300268: Voile005
+    2300270: Voile2
+    2300272: VoileDroite
+    3300000: Baume
+    3300002: box unders
+    3300004: box unders001
+    3300006: Cable_Avant
+    3300008: Cable_Avant002
+    3300010: Cable_Avant003
+    3300012: float _008
+    3300014: float _017
+    3300016: float _018
+    3300018: float _019
+    3300020: float _020
+    3300022: float _021
+    3300024: float skin
+    3300026: float skin001
+    3300028: hautcoqueav
+    3300030: hautcoqueav001
+    3300032: letrucDroit
+    3300034: letrucGauche
+    3300036: Mat
+    3300038: mh doghous
+    3300040: mh doghous001
+    3300042: Obj_000001
+    3300044: Obj_000002
+    3300046: Obj_000003
+    3300048: Obj_000004
+    3300050: Obj_000011
+    3300052: Obj_000013
+    3300054: Obj_000014
+    3300056: Obj_000015
+    3300058: Obj_000016
+    3300060: Obj_000019
+    3300062: Obj_000020
+    3300064: Obj_000021
+    3300066: Obj_000022
+    3300068: Obj_000023
+    3300070: Obj_000024
+    3300072: Obj_000025
+    3300074: Obj_000026
+    3300076: Obj_000027
+    3300078: Obj_000028
+    3300080: Obj_000029
+    3300082: Obj_000030
+    3300084: Obj_000031
+    3300086: Obj_000032
+    3300088: Obj_000033
+    3300090: Obj_000034
+    3300092: Obj_000035
+    3300094: Obj_000036
+    3300096: Obj_000037
+    3300098: Obj_000038
+    3300100: Obj_000039
+    3300102: Obj_000040
+    3300104: Obj_000041
+    3300106: Obj_000042
+    3300108: Obj_000043
+    3300110: Obj_000044
+    3300112: Obj_000045
+    3300114: Obj_000046
+    3300116: Obj_000047
+    3300118: Obj_000048
+    3300120: Obj_000049
+    3300122: Obj_000050
+    3300124: Obj_000051
+    3300126: Obj_000052
+    3300128: Obj_000053
+    3300130: Obj_000054
+    3300132: Obj_000055
+    3300134: Obj_000056
+    3300136: Obj_000057
+    3300138: Obj_000058
+    3300140: Obj_000059
+    3300142: Obj_060
+    3300144: Obj_061
+    3300146: Obj_062
+    3300148: Obj_063
+    3300150: Obj_064
+    3300152: Obj_065
+    3300154: Obj_066
+    3300156: Obj_067
+    3300158: Obj_068
+    3300160: Obj_069
+    3300162: Obj_070
+    3300164: Obj_071
+    3300166: Obj_072
+    3300168: Obj_073
+    3300170: Obj_074
+    3300172: Obj_075
+    3300174: Obj_076
+    3300176: Obj_077
+    3300178: Obj_078
+    3300180: Obj_079
+    3300182: Obj_080
+    3300184: Obj_081
+    3300186: Obj_082
+    3300188: Obj_083
+    3300190: Obj_084
+    3300192: Obj_085
+    3300194: Obj_086
+    3300196: Obj_087
+    3300198: Obj_088
+    3300200: Obj_089
+    3300202: Obj_090
+    3300204: Obj_091
+    3300206: Obj_092
+    3300208: Obj_093
+    3300210: Obj_094
+    3300212: Obj_095
+    3300214: Obj_096
+    3300216: Obj_097
+    3300218: Obj_098
+    3300220: Obj_099
+    3300222: Obj_100
+    3300224: Obj_101
+    3300226: Obj_102
+    3300228: Obj_103
+    3300230: Obj_104
+    3300232: Obj_105
+    3300234: Obj_106
+    3300236: Obj_107
+    3300238: Obj_108
+    3300240: Obj_109
+    3300242: Plan001
+    3300244: Plan002
+    3300246: SafranDroit
+    3300248: SafranGauche
+    3300250: TRIM S_012
+    3300252: TRIM S_013
+    3300254: TRIM SF
+    3300256: TRIM SF001
+    3300258: Tube001
+    3300260: Tube002
+    3300262: Voile
+    3300264: Voile003
+    3300266: Voile004
+    3300268: Voile005
+    3300270: Voile2
+    3300272: VoileDroite
+    4300000: Mat
+    4300002: Baume
+    4300004: Voile
+    4300006: VoileDroite
+    4300008: Obj_060
+    4300010: Obj_061
+    4300012: Obj_062
+    4300014: Obj_063
+    4300016: Obj_064
+    4300018: Obj_065
+    4300020: Obj_066
+    4300022: Obj_067
+    4300024: Obj_068
+    4300026: Obj_069
+    4300028: Obj_070
+    4300030: Obj_071
+    4300032: Obj_072
+    4300034: Obj_073
+    4300036: Obj_074
+    4300038: Obj_075
+    4300040: Obj_076
+    4300042: Obj_077
+    4300044: Obj_078
+    4300046: Obj_079
+    4300048: Obj_080
+    4300050: Obj_081
+    4300052: Obj_082
+    4300054: Obj_083
+    4300056: Obj_084
+    4300058: Obj_085
+    4300060: Obj_086
+    4300062: Obj_087
+    4300064: Obj_088
+    4300066: Obj_089
+    4300068: Obj_090
+    4300070: Obj_091
+    4300072: Obj_092
+    4300074: Obj_093
+    4300076: Obj_094
+    4300078: Obj_095
+    4300080: Obj_096
+    4300082: Obj_097
+    4300084: Obj_098
+    4300086: Obj_099
+    4300088: Obj_100
+    4300090: float _019
+    4300092: Obj_101
+    4300094: Obj_102
+    4300096: Obj_103
+    4300098: Obj_104
+    4300100: TRIM S_013
+    4300102: Obj_105
+    4300104: TRIM SF001
+    4300106: mh doghous001
+    4300108: float _021
+    4300110: box unders001
+    4300112: Obj_106
+    4300114: Obj_107
+    4300116: Obj_108
+    4300118: Obj_109
+    4300120: float skin001
+    4300122: float _020
+    4300124: hautcoqueav
+    4300126: hautcoqueav001
+    4300128: Obj_000059
+    4300130: Obj_000058
+    4300132: Obj_000057
+    4300134: Obj_000056
+    4300136: Obj_000055
+    4300138: Obj_000054
+    4300140: Obj_000053
+    4300142: Obj_000052
+    4300144: Obj_000051
+    4300146: Obj_000050
+    4300148: Obj_000049
+    4300150: Obj_000048
+    4300152: Obj_000047
+    4300154: Obj_000046
+    4300156: Obj_000045
+    4300158: Obj_000044
+    4300160: Obj_000043
+    4300162: Obj_000042
+    4300164: Obj_000041
+    4300166: Obj_000040
+    4300168: Obj_000039
+    4300170: Obj_000038
+    4300172: Obj_000037
+    4300174: Obj_000036
+    4300176: Obj_000035
+    4300178: Obj_000034
+    4300180: Obj_000033
+    4300182: Obj_000032
+    4300184: Obj_000031
+    4300186: Obj_000030
+    4300188: Obj_000029
+    4300190: Obj_000028
+    4300192: Obj_000027
+    4300194: Obj_000026
+    4300196: Obj_000025
+    4300198: Obj_000024
+    4300200: Obj_000023
+    4300202: Obj_000022
+    4300204: Obj_000021
+    4300206: Obj_000020
+    4300208: Obj_000019
+    4300210: float _018
+    4300212: Obj_000016
+    4300214: Obj_000015
+    4300216: Obj_000014
+    4300218: Obj_000013
+    4300220: TRIM S_012
+    4300222: Obj_000011
+    4300224: TRIM SF
+    4300226: mh doghous
+    4300228: float _008
+    4300230: box unders
+    4300232: Obj_000004
+    4300234: Obj_000003
+    4300236: Obj_000002
+    4300238: Obj_000001
+    4300240: float skin
+    4300242: float _017
+    4300244: Cable_Avant
+    4300246: Plan001
+    4300248: Cable_Avant002
+    4300250: Cable_Avant003
+    4300252: Voile2
+    4300254: SafranGauche
+    4300256: SafranDroit
+    4300258: letrucGauche
+    4300260: Tube001
+    4300262: letrucDroit
+    4300264: Tube002
+    4300266: Voile003
+    4300268: Plan002
+    4300270: Voile004
+    4300272: Voile005
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
